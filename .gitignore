@@ -46,3 +46,6 @@ id_ecdsa
 .ansible/
 collections/
 herickmotta-homelab-*.tar.gz
+ansible/tests/**/__pycache__/
+**/__pycache__/
+*.pyc
